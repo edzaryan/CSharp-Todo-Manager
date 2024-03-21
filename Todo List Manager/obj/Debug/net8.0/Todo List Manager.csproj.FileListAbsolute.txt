@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\Todo List Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\Todo List Manager.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\Todo List Manager.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\Todo List Manager.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\bin\Debug\net8.0\Todo List Manager.exe
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\bin\Debug\net8.0\Todo List Manager.deps.json
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\bin\Debug\net8.0\Todo List Manager.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\bin\Debug\net8.0\Todo List Manager.dll
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\bin\Debug\net8.0\Todo List Manager.pdb
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\Todo List Manager.dll
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\refint\Todo List Manager.dll
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\Todo List Manager.pdb
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\Todo List Manager.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Todo List Manager\Todo List Manager\obj\Debug\net8.0\ref\Todo List Manager.dll

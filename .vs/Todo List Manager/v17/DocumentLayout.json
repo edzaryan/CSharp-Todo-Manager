@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Todo List Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDC331A-2F69-4D11-B47A-4B2DB1683037}|Todo List Manager\\Todo List Manager.csproj|c:\\users\\dell\\onedrive\\desktop\\todo list manager\\todo list manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDC331A-2F69-4D11-B47A-4B2DB1683037}|Todo List Manager\\Todo List Manager.csproj|solutionrelative:todo list manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDC331A-2F69-4D11-B47A-4B2DB1683037}|Todo List Manager\\Todo List Manager.csproj|c:\\users\\dell\\onedrive\\desktop\\todo list manager\\todo list manager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDC331A-2F69-4D11-B47A-4B2DB1683037}|Todo List Manager\\Todo List Manager.csproj|solutionrelative:todo list manager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDC331A-2F69-4D11-B47A-4B2DB1683037}|Todo List Manager\\Todo List Manager.csproj|c:\\users\\dell\\onedrive\\desktop\\todo list manager\\todo list manager\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDC331A-2F69-4D11-B47A-4B2DB1683037}|Todo List Manager\\Todo List Manager.csproj|solutionrelative:todo list manager\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Todo List Manager\\Todo List Manager\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Todo List Manager\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Todo List Manager\\Todo List Manager\\TaskManager.cs",
+              "RelativeToolTip": "Todo List Manager\\TaskManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwDcAAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:34:36.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Todo List Manager\\Todo List Manager\\UserTask.cs",
+              "RelativeDocumentMoniker": "Todo List Manager\\UserTask.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Todo List Manager\\Todo List Manager\\UserTask.cs",
+              "RelativeToolTip": "Todo List Manager\\UserTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T01:48:31.073Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Todo List Manager\\Todo List Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Todo List Manager\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Todo List Manager\\Todo List Manager\\Program.cs",
+              "RelativeToolTip": "Todo List Manager\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:38:45.818Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
